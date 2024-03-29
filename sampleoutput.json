@@ -1,0 +1,36 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "genre": [
+                "Action",
+                "Comedy",
+                "Thriller"
+            ],
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMWMzYWE2NDgtN2JiMy00MTZlLWJhODktYzBmMDg4NjUwYTYxXkEyXkFqcGdeQXVyNTM1Mzk2ODI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt6244266",
+            "imdbrating": 7.8,
+            "released": 2020,
+            "synopsis": "Two days after the 2016 U.S. Presidential Election, a young careerist is abducted by an at-large intelligence operative carrying a mysterious briefcase, while being hotly pursued by a driven agency director and her dull-witted team.",
+            "title": "Counterintelligence",
+            "type": "movie"
+        },
+        {
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "imageurl": [
+                "https://m.media-amazon.com/images/M/MV5BMmUyYTU5MjItMGNhOC00ZGFhLTkwYjctMjBmNTlkOTIzYmM1XkEyXkFqcGdeQXVyOTUyOTM3MDc@._V1_UY268_CR110,0,182,268_AL_.jpg"
+            ],
+            "imdbid": "tt9286908",
+            "imdbrating": 7.6,
+            "released": 2020,
+            "synopsis": "In a bid to save the last of his family, Gutjuk, a young Aboriginal man, teams up with ex-soldier Travis to track down Baywara, the most dangerous warrior in the Territory, his uncle.",
+            "title": "High Ground",
+            "type": "movie"
+        }
+    ]
+}
